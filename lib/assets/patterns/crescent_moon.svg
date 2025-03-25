@@ -1,0 +1,13 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Crescent moon symbol -->
+  <path d="M50,10 
+           A40,40 0 1,1 50,90 
+           A35,35 0 1,0 50,10 
+           Z" 
+        fill="currentColor"/>
+  
+  <!-- Optional stars -->
+  <circle cx="70" cy="25" r="2" fill="currentColor" opacity="0.7"/>
+  <circle cx="80" cy="40" r="1.5" fill="currentColor" opacity="0.5"/>
+  <circle cx="65" cy="15" r="1" fill="currentColor" opacity="0.6"/>
+</svg>

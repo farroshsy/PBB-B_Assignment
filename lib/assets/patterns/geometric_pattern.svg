@@ -1,0 +1,25 @@
+<svg viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Islamic geometric pattern -->
+  <defs>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M0,0 L60,0 L60,60 L0,60 Z" fill="none" stroke="currentColor" stroke-width="1" opacity="0.5"/>
+    </pattern>
+    
+    <pattern id="star" width="120" height="120" patternUnits="userSpaceOnUse">
+      <!-- 8-pointed star pattern -->
+      <path d="M60,0 L75,40 L120,60 L75,80 L60,120 L45,80 L0,60 L45,40 Z" fill="none" stroke="currentColor" stroke-width="1"/>
+      
+      <!-- Connecting lines -->
+      <path d="M0,60 L120,60 M60,0 L60,120 M15,15 L105,105 M15,105 L105,15" fill="none" stroke="currentColor" stroke-width="0.5" opacity="0.7"/>
+      
+      <!-- Central octagon -->
+      <path d="M45,30 L75,30 L90,45 L90,75 L75,90 L45,90 L30,75 L30,45 Z" fill="none" stroke="currentColor" stroke-width="1.2"/>
+    </pattern>
+  </defs>
+  
+  <!-- Background grid -->
+  <rect width="600" height="600" fill="url(#grid)"/>
+  
+  <!-- Star pattern overlay -->
+  <rect width="600" height="600" fill="url(#star)"/>
+</svg>
