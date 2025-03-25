@@ -55,23 +55,18 @@ flutter run
 ## Screenshots
 
 - **Figure 1:** Dashboard Page with Prayer Times
--- Add your screenshot here --
+
 
 - **Figure 2:** Activity Management Page
-<!-- Add your screenshot here -->
+
 
 - **Figure 3:** Ramadan Calendar View
-<!-- Add your screenshot here -->
 
-- **Figure 4:** Create New Activity Form
-<!-- Add your screenshot here -->
 
-- **Figure 5:** Prayer Times Configuration
-<!-- Add your screenshot here -->
 
 ## Video Explanation
 Check out this video explanation of the Ramadan Planner app:
-[Your YouTube Video Link Here]
+https://www.youtube.com/watch
 
 ## References
 This Ramadan Planner application was inspired by Muslim Pro
